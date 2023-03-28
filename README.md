@@ -1,2 +1,3 @@
-#  Conversor de Pesos mexicanos  proyecto de Alura latam  
+#  Conversor de Pesos Mexicanos y conversor de temperatura
 # Challenge 2
+# AluraLatam
